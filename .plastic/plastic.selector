@@ -1,0 +1,4 @@
+repository "ZombieFPS@zhiyu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
