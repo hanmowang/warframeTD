@@ -1,5 +1,5 @@
 # warframeTD
-a basic tower defense game built with unity
+A Tower Defense game application developed as a 2-man team-based Unity project with the use of C#
 # screenshots of the game
 ![Screenshot 2022-09-19 191254](https://user-images.githubusercontent.com/89413517/191135480-9a98ec43-ac55-45e0-b464-e13fc9845617.png)
 ![Screenshot 2022-09-19 191322](https://user-images.githubusercontent.com/89413517/191135481-a87d6fa4-47ec-44f5-9fb2-a451b4354e8e.png)
